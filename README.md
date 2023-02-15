@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## I'm a statistics and data science student at USP, Brazil.
+
+- 🌱 I’m currently learning everything about statistics and data science 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about Cloud Computing
+
 <!--
 **gustavo-andrade-tavares/gustavo-andrade-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
