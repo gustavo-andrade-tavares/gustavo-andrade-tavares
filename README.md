@@ -34,6 +34,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-andrade-tavares&layout=compact)](https://github.com/gustavo-andrade-tavares/github-readme-stats)
 
