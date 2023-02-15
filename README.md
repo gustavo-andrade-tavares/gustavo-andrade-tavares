@@ -6,6 +6,14 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about Cloud Computing
 
+## Languages and Tools
+
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />
+
+
+
 <!--
 **gustavo-andrade-tavares/gustavo-andrade-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
