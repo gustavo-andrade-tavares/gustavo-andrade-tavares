@@ -33,6 +33,9 @@
 <img align="left" alt="VScode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-andrade-tavares&layout=compact)](https://github.com/gustavo-andrade-tavares/github-readme-stats)
+
+
 <!--
 **gustavo-andrade-tavares/gustavo-andrade-tavares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
